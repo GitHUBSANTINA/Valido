@@ -2,11 +2,13 @@
     background-color: #FF8080
 }
 
-.cabeçalho/título{C5E898
+.cabeçalho-título {
+    color: #F26457;
 }
 
-.cabeçalho-lista{
-    color: # white;
+.cabeçalho-lista {
+    color: white;
 }
 
-.cabeçalho-imagem{width: 10%;}
+.cabeçalho-imagem{
+    width: 10%;
